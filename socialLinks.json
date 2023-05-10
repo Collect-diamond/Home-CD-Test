@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Github",
+		"icon": "/images/icon/github.png",
+		"tip": "Crazy Weirrrd Stuff...",
+		"url": "https://github.com/Collect-diamond"
+	},
+	{
+		"name": "QQ",
+		"icon": "/images/icon/qq.png",
+		"tip": "My QQ Account",
+		"url": "https://wpa.qq.com/msgrd?v=3&uin=3066703409&site=qq&menu=yes"
+	},
+	{
+		"name": "Email",
+		"icon": "/images/icon/email.png",
+		"tip": "Email me...",
+		"url": "mailto:collect_diamond@outlook.com"
+	},
+	{
+		"name": "Youtube",
+		"icon": "/images/icon/youtube.svg",
+		"tip": "Subscribe!!!",
+		"url": "https://www.youtube.com/@collect_diamond"
+	},
+	{
+		"name": "Twitter",
+		"icon": "/images/icon/twitter.png",
+		"tip": "Active on twitter :]",
+		"url": "https://twitter.com/hilda_0335"
+	},
+	{
+		"name": "Tumblr",
+		"icon": "/images/icon/tumblr.svg",
+		"tip": "My tumblr Account",
+		"url": "https://www.tumblr.com/hilda0335"
+	}
+]
