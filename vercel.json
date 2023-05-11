@@ -13,5 +13,11 @@
 			"source": "/backend/(.*)",
 			"destination": "/api/testproxy"
 		}
+	],
+	"crons": [
+		{
+			"path": "/api/cron",
+			"schedule": "0 10 * * *"
+		}
 	]
 }
