@@ -118,7 +118,7 @@ const getWeatherData = () => {
 													"风",
 												windpower:
 													res.lives[0].windpower +
-													"级",
+													" 级",
 											};
 										} else {
 											onError("天气信息获取失败");
